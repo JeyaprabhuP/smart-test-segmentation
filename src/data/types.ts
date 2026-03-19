@@ -107,3 +107,45 @@ export interface ShiftSchedule {
   shift: "day" | "night" | "swing";
   status: "scheduled" | "on-duty" | "completed" | "absent";
 }
+
+export interface HourlyVital {
+  patientId: string;
+  timestamp: string;
+  heartRate: number;
+  systolicBP: number;
+  diastolicBP: number;
+  temperature: number;
+  oxygenSaturation: number;
+  respiratoryRate: number;
+}
+
+export interface LabResult {
+  parameter: string;
+  value: string;
+  unit: string;
+  normalRange: string;
+  flag: "normal" | "high" | "low";
+}
+
+export interface LabReport {
+  id: string;
+  patientId: string;
+  testName: string;
+  category: string;
+  orderedBy: string;
+  orderedAt: string;
+  resultAt: string;
+  status: "completed" | "pending" | "in-progress";
+  results: LabResult[];
+}
+
+export interface UserAccount {
+  id: string;
+  email: string;
+  password: string;
+  name: string;
+  role: UserRole;
+  department: string;
+  avatar: string;
+  lastLogin: string;
+}

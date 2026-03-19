@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useRole } from "@/context/RoleContext";
-import RoleSelector from "@/components/RoleSelector";
+import LoginPage from "@/pages/LoginPage";
 import DashboardLayout from "@/components/DashboardLayout";
 import AdminDashboard from "@/components/dashboards/AdminDashboard";
 import ManagerDashboard from "@/components/dashboards/ManagerDashboard";
@@ -10,7 +10,7 @@ const Index = () => {
   const { role } = useRole();
   const [activePage, setActivePage] = useState("overview");
 
-  if (!role) return <RoleSelector />;
+  if (!role) return <LoginPage />;
 
   const handlePageChange = (page: string) => setActivePage(page);
 

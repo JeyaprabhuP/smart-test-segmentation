@@ -2,7 +2,8 @@ import { ReactNode } from "react";
 import { motion } from "framer-motion";
 import {
   Activity, LogOut, Bell, Shield, BarChart3, Stethoscope,
-  LayoutDashboard, FileText, Settings, Users, Heart, ClipboardList
+  LayoutDashboard, FileText, Settings, Users, Heart, ClipboardList,
+  FlaskConical, Clock, User
 } from "lucide-react";
 import { useRole } from "@/context/RoleContext";
 import { alerts } from "@/data/mockData";
@@ -28,6 +29,8 @@ const navItems = {
   clinician: [
     { id: "overview", label: "Patients", icon: Heart },
     { id: "tasks", label: "Task List", icon: ClipboardList },
+    { id: "labs", label: "Lab Reports", icon: FlaskConical },
+    { id: "hourly", label: "Hourly Vitals", icon: Clock },
   ],
 };
 
@@ -35,7 +38,7 @@ const roleLabels = { admin: "Administrator", manager: "Manager", clinician: "Cli
 const roleIcons = { admin: Shield, manager: BarChart3, clinician: Stethoscope };
 
 const DashboardLayout = ({ children, activePage, onPageChange }: DashboardLayoutProps) => {
-  const { role, setRole } = useRole();
+  const { role, user, logout } = useRole();
   if (!role) return null;
 
   const RoleIcon = roleIcons[role];
@@ -77,13 +80,28 @@ const DashboardLayout = ({ children, activePage, onPageChange }: DashboardLayout
           })}
         </nav>
 
+        {/* User info */}
+        {user && (
+          <div className="px-3 pb-2">
+            <div className="flex items-center gap-3 px-3 py-2.5 rounded-lg bg-sidebar-accent/30">
+              <div className="w-8 h-8 rounded-full bg-sidebar-primary/20 flex items-center justify-center text-xs font-bold text-sidebar-primary">
+                {user.avatar}
+              </div>
+              <div className="flex-1 min-w-0">
+                <p className="text-xs font-medium text-sidebar-foreground truncate">{user.name}</p>
+                <p className="text-[10px] text-sidebar-foreground/50 truncate">{user.email}</p>
+              </div>
+            </div>
+          </div>
+        )}
+
         <div className="p-3 border-t border-sidebar-border">
           <button
-            onClick={() => setRole(null)}
+            onClick={logout}
             className="w-full flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm text-sidebar-foreground/60 hover:text-sidebar-foreground hover:bg-sidebar-accent/50 transition-colors"
           >
             <LogOut className="w-4 h-4" />
-            Switch Role
+            Sign Out
           </button>
         </div>
       </aside>
@@ -105,7 +123,7 @@ const DashboardLayout = ({ children, activePage, onPageChange }: DashboardLayout
               )}
             </button>
             <div className="h-8 w-8 rounded-full bg-primary flex items-center justify-center text-primary-foreground text-sm font-bold">
-              {role[0].toUpperCase()}
+              {user?.avatar || role[0].toUpperCase()}
             </div>
           </div>
         </header>
