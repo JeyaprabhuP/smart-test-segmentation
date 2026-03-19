@@ -1,0 +1,12 @@
+import { Department } from "./types";
+
+export const departments: Department[] = [
+  { id: "D001", name: "ICU", head: "Dr. Wei Chen", totalBeds: 12, occupiedBeds: 8, staffCount: 8 },
+  { id: "D002", name: "Cardiology", head: "Dr. Anjali Patel", totalBeds: 15, occupiedBeds: 10, staffCount: 5 },
+  { id: "D003", name: "Neurology", head: "Dr. Marcus Johnson", totalBeds: 10, occupiedBeds: 6, staffCount: 4 },
+  { id: "D004", name: "General", head: "Dr. Sarah Kim", totalBeds: 40, occupiedBeds: 28, staffCount: 8 },
+  { id: "D005", name: "Orthopedics", head: "Dr. Sarah Kim", totalBeds: 12, occupiedBeds: 5, staffCount: 3 },
+  { id: "D006", name: "Obstetrics", head: "Dr. Emily Williams", totalBeds: 8, occupiedBeds: 3, staffCount: 4 },
+  { id: "D007", name: "Geriatrics", head: "Dr. Emily Williams", totalBeds: 10, occupiedBeds: 7, staffCount: 3 },
+  { id: "D008", name: "Emergency", head: "Dr. Wei Chen", totalBeds: 20, occupiedBeds: 14, staffCount: 10 },
+];
