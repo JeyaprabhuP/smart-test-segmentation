@@ -1,5 +1,6 @@
 export type Severity = "critical" | "moderate" | "stable";
-export type UserRole = "admin" | "manager" | "clinician";
+export type UserRole = "admin" | "manager" | "clinician" | "triage_nurse";
+export type PatientStatus = "registered" | "admitted" | "discharged" | "waiting";
 
 export interface Patient {
   id: string;
@@ -12,6 +13,12 @@ export interface Patient {
   doctor: string;
   admissionDate: string;
   diagnosis: string;
+  status: PatientStatus;
+  triageNurse?: string;
+  registeredAt?: string;
+  aiSeverity?: Severity;
+  chiefComplaint?: string;
+  allergies?: string;
   vitals: {
     heartRate: number;
     bloodPressure: string;

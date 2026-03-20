@@ -1,10 +1,11 @@
 import { useState } from "react";
 import { useRole } from "@/context/RoleContext";
 import LoginPage from "@/pages/LoginPage";
-import DashboardLayout from "@/components/DashboardLayout";
+import TopNavLayout from "@/components/TopNavLayout";
 import AdminDashboard from "@/components/dashboards/AdminDashboard";
 import ManagerDashboard from "@/components/dashboards/ManagerDashboard";
 import ClinicianDashboard from "@/components/dashboards/ClinicianDashboard";
+import TriageNurseDashboard from "@/components/dashboards/TriageNurseDashboard";
 
 const Index = () => {
   const { role } = useRole();
@@ -12,14 +13,13 @@ const Index = () => {
 
   if (!role) return <LoginPage />;
 
-  const handlePageChange = (page: string) => setActivePage(page);
-
   return (
-    <DashboardLayout activePage={activePage} onPageChange={handlePageChange}>
+    <TopNavLayout activePage={activePage} onPageChange={setActivePage}>
       {role === "admin" && <AdminDashboard page={activePage} />}
       {role === "manager" && <ManagerDashboard page={activePage} />}
       {role === "clinician" && <ClinicianDashboard page={activePage} />}
-    </DashboardLayout>
+      {role === "triage_nurse" && <TriageNurseDashboard page={activePage} />}
+    </TopNavLayout>
   );
 };
 
