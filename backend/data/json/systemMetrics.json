@@ -1,0 +1,66 @@
+[
+  {
+    "id": "SM001",
+    "name": "Avg. Triage Time",
+    "value": 4.2,
+    "unit": "min",
+    "trend": "down",
+    "changePercent": -12
+  },
+  {
+    "id": "SM002",
+    "name": "Classification Accuracy",
+    "value": 96.8,
+    "unit": "%",
+    "trend": "up",
+    "changePercent": 1.5
+  },
+  {
+    "id": "SM003",
+    "name": "Rules Triggered Today",
+    "value": 23,
+    "unit": "",
+    "trend": "up",
+    "changePercent": 15
+  },
+  {
+    "id": "SM004",
+    "name": "Avg. Length of Stay",
+    "value": 3.7,
+    "unit": "days",
+    "trend": "stable",
+    "changePercent": 0
+  },
+  {
+    "id": "SM005",
+    "name": "Patient Throughput",
+    "value": 42,
+    "unit": "patients/day",
+    "trend": "up",
+    "changePercent": 8
+  },
+  {
+    "id": "SM006",
+    "name": "Readmission Rate",
+    "value": 4.1,
+    "unit": "%",
+    "trend": "down",
+    "changePercent": -5
+  },
+  {
+    "id": "SM007",
+    "name": "Bed Turnover",
+    "value": 1.8,
+    "unit": "per day",
+    "trend": "up",
+    "changePercent": 3
+  },
+  {
+    "id": "SM008",
+    "name": "Alert Response Time",
+    "value": 2.1,
+    "unit": "min",
+    "trend": "down",
+    "changePercent": -18
+  }
+]

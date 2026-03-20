@@ -1,0 +1,102 @@
+[
+  {
+    "id": "U001",
+    "email": "admin@vitaltriage.com",
+    "password": "admin123",
+    "name": "Dr. Sarah Mitchell",
+    "role": "admin",
+    "department": "IT & Systems",
+    "avatar": "SM",
+    "lastLogin": "2026-03-19 08:00"
+  },
+  {
+    "id": "U002",
+    "email": "admin2@vitaltriage.com",
+    "password": "admin123",
+    "name": "Dr. Richard Wells",
+    "role": "admin",
+    "department": "Medical Informatics",
+    "avatar": "RW",
+    "lastLogin": "2026-03-18 14:30"
+  },
+  {
+    "id": "U003",
+    "email": "manager@vitaltriage.com",
+    "password": "manager123",
+    "name": "Nurse Director Lisa Park",
+    "role": "manager",
+    "department": "Nursing Administration",
+    "avatar": "LP",
+    "lastLogin": "2026-03-19 07:30"
+  },
+  {
+    "id": "U004",
+    "email": "manager2@vitaltriage.com",
+    "password": "manager123",
+    "name": "Dr. James Morton",
+    "role": "manager",
+    "department": "Hospital Operations",
+    "avatar": "JM",
+    "lastLogin": "2026-03-19 06:45"
+  },
+  {
+    "id": "U005",
+    "email": "clinician@vitaltriage.com",
+    "password": "doctor123",
+    "name": "Dr. Chen",
+    "role": "clinician",
+    "department": "ICU",
+    "avatar": "DC",
+    "lastLogin": "2026-03-19 05:00"
+  },
+  {
+    "id": "U006",
+    "email": "clinician2@vitaltriage.com",
+    "password": "doctor123",
+    "name": "Dr. Patel",
+    "role": "clinician",
+    "department": "Cardiology",
+    "avatar": "DP",
+    "lastLogin": "2026-03-19 07:15"
+  },
+  {
+    "id": "U007",
+    "email": "clinician3@vitaltriage.com",
+    "password": "doctor123",
+    "name": "Dr. Kim",
+    "role": "clinician",
+    "department": "General Medicine",
+    "avatar": "DK",
+    "lastLogin": "2026-03-19 08:30"
+  },
+  {
+    "id": "U008",
+    "email": "clinician4@vitaltriage.com",
+    "password": "doctor123",
+    "name": "Dr. Williams",
+    "role": "clinician",
+    "department": "Obstetrics",
+    "avatar": "DW",
+    "lastLogin": "2026-03-18 22:00"
+  },
+  {
+    "id": "U009",
+    "email": "triage@vitaltriage.com",
+    "password": "nurse123",
+    "name": "Nurse Amy Collins",
+    "role": "triage_nurse",
+    "department": "Emergency",
+    "avatar": "AC",
+    "lastLogin": "2026-03-19 06:00"
+  },
+  {
+    "id": "U010",
+    "email": "triage2@vitaltriage.com",
+    "password": "nurse123",
+    "name": "Nurse David Lee",
+    "role": "triage_nurse",
+    "department": "Emergency",
+    "avatar": "DL",
+    "lastLogin": "2026-03-19 07:00"
+  }
+]

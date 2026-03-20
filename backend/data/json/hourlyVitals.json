@@ -1,0 +1,1922 @@
+[
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 00:00",
+    "heartRate": 110,
+    "systolicBP": 178,
+    "diastolicBP": 107,
+    "temperature": 38.7,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 30
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 01:00",
+    "heartRate": 112,
+    "systolicBP": 175,
+    "diastolicBP": 104,
+    "temperature": 39.2,
+    "oxygenSaturation": 91,
+    "respiratoryRate": 26
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 02:00",
+    "heartRate": 104,
+    "systolicBP": 184,
+    "diastolicBP": 107,
+    "temperature": 39,
+    "oxygenSaturation": 90,
+    "respiratoryRate": 28
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 03:00",
+    "heartRate": 116,
+    "systolicBP": 186,
+    "diastolicBP": 117,
+    "temperature": 38.9,
+    "oxygenSaturation": 88,
+    "respiratoryRate": 26
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 04:00",
+    "heartRate": 118,
+    "systolicBP": 186,
+    "diastolicBP": 114,
+    "temperature": 38.7,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 25
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 05:00",
+    "heartRate": 111,
+    "systolicBP": 176,
+    "diastolicBP": 118,
+    "temperature": 39.5,
+    "oxygenSaturation": 88,
+    "respiratoryRate": 31
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 06:00",
+    "heartRate": 104,
+    "systolicBP": 183,
+    "diastolicBP": 107,
+    "temperature": 39.2,
+    "oxygenSaturation": 90,
+    "respiratoryRate": 29
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 07:00",
+    "heartRate": 119,
+    "systolicBP": 193,
+    "diastolicBP": 109,
+    "temperature": 39.5,
+    "oxygenSaturation": 85,
+    "respiratoryRate": 24
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 08:00",
+    "heartRate": 116,
+    "systolicBP": 169,
+    "diastolicBP": 107,
+    "temperature": 39.5,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 24
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 09:00",
+    "heartRate": 114,
+    "systolicBP": 193,
+    "diastolicBP": 111,
+    "temperature": 39.2,
+    "oxygenSaturation": 90,
+    "respiratoryRate": 25
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 10:00",
+    "heartRate": 114,
+    "systolicBP": 180,
+    "diastolicBP": 108,
+    "temperature": 39.5,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 28
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 11:00",
+    "heartRate": 111,
+    "systolicBP": 195,
+    "diastolicBP": 109,
+    "temperature": 39,
+    "oxygenSaturation": 88,
+    "respiratoryRate": 28
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 12:00",
+    "heartRate": 118,
+    "systolicBP": 191,
+    "diastolicBP": 110,
+    "temperature": 39.3,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 29
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 13:00",
+    "heartRate": 118,
+    "systolicBP": 187,
+    "diastolicBP": 110,
+    "temperature": 38.9,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 28
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 14:00",
+    "heartRate": 109,
+    "systolicBP": 169,
+    "diastolicBP": 106,
+    "temperature": 39,
+    "oxygenSaturation": 90,
+    "respiratoryRate": 31
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 15:00",
+    "heartRate": 110,
+    "systolicBP": 167,
+    "diastolicBP": 114,
+    "temperature": 38.8,
+    "oxygenSaturation": 88,
+    "respiratoryRate": 31
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 16:00",
+    "heartRate": 105,
+    "systolicBP": 169,
+    "diastolicBP": 111,
+    "temperature": 39.2,
+    "oxygenSaturation": 88,
+    "respiratoryRate": 29
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 17:00",
+    "heartRate": 107,
+    "systolicBP": 168,
+    "diastolicBP": 113,
+    "temperature": 39.6,
+    "oxygenSaturation": 88,
+    "respiratoryRate": 30
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 18:00",
+    "heartRate": 117,
+    "systolicBP": 182,
+    "diastolicBP": 107,
+    "temperature": 38.8,
+    "oxygenSaturation": 85,
+    "respiratoryRate": 26
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 19:00",
+    "heartRate": 105,
+    "systolicBP": 188,
+    "diastolicBP": 112,
+    "temperature": 38.8,
+    "oxygenSaturation": 90,
+    "respiratoryRate": 25
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 20:00",
+    "heartRate": 114,
+    "systolicBP": 191,
+    "diastolicBP": 107,
+    "temperature": 39.1,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 29
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 21:00",
+    "heartRate": 112,
+    "systolicBP": 169,
+    "diastolicBP": 118,
+    "temperature": 39.1,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 29
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 22:00",
+    "heartRate": 120,
+    "systolicBP": 192,
+    "diastolicBP": 113,
+    "temperature": 39.2,
+    "oxygenSaturation": 86,
+    "respiratoryRate": 29
+  },
+  {
+    "patientId": "P001",
+    "timestamp": "2026-03-19 23:00",
+    "heartRate": 112,
+    "systolicBP": 186,
+    "diastolicBP": 106,
+    "temperature": 38.9,
+    "oxygenSaturation": 86,
+    "respiratoryRate": 31
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 00:00",
+    "heartRate": 92,
+    "systolicBP": 153,
+    "diastolicBP": 95,
+    "temperature": 37.5,
+    "oxygenSaturation": 93,
+    "respiratoryRate": 21
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 01:00",
+    "heartRate": 88,
+    "systolicBP": 159,
+    "diastolicBP": 92,
+    "temperature": 37.3,
+    "oxygenSaturation": 92,
+    "respiratoryRate": 20
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 02:00",
+    "heartRate": 91,
+    "systolicBP": 152,
+    "diastolicBP": 91,
+    "temperature": 37.3,
+    "oxygenSaturation": 94,
+    "respiratoryRate": 21
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 03:00",
+    "heartRate": 93,
+    "systolicBP": 159,
+    "diastolicBP": 94,
+    "temperature": 37.3,
+    "oxygenSaturation": 93,
+    "respiratoryRate": 22
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 04:00",
+    "heartRate": 94,
+    "systolicBP": 141,
+    "diastolicBP": 95,
+    "temperature": 37.3,
+    "oxygenSaturation": 94,
+    "respiratoryRate": 22
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 05:00",
+    "heartRate": 92,
+    "systolicBP": 159,
+    "diastolicBP": 98,
+    "temperature": 37.7,
+    "oxygenSaturation": 94,
+    "respiratoryRate": 18
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 06:00",
+    "heartRate": 89,
+    "systolicBP": 144,
+    "diastolicBP": 100,
+    "temperature": 37.3,
+    "oxygenSaturation": 94,
+    "respiratoryRate": 19
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 07:00",
+    "heartRate": 89,
+    "systolicBP": 158,
+    "diastolicBP": 94,
+    "temperature": 37.2,
+    "oxygenSaturation": 95,
+    "respiratoryRate": 22
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 08:00",
+    "heartRate": 91,
+    "systolicBP": 153,
+    "diastolicBP": 96,
+    "temperature": 37.1,
+    "oxygenSaturation": 93,
+    "respiratoryRate": 20
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 09:00",
+    "heartRate": 94,
+    "systolicBP": 142,
+    "diastolicBP": 95,
+    "temperature": 37.6,
+    "oxygenSaturation": 93,
+    "respiratoryRate": 20
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 10:00",
+    "heartRate": 90,
+    "systolicBP": 143,
+    "diastolicBP": 92,
+    "temperature": 37.3,
+    "oxygenSaturation": 92,
+    "respiratoryRate": 20
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 11:00",
+    "heartRate": 92,
+    "systolicBP": 158,
+    "diastolicBP": 98,
+    "temperature": 37.7,
+    "oxygenSaturation": 93,
+    "respiratoryRate": 19
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 12:00",
+    "heartRate": 88,
+    "systolicBP": 154,
+    "diastolicBP": 95,
+    "temperature": 37.4,
+    "oxygenSaturation": 94,
+    "respiratoryRate": 19
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 13:00",
+    "heartRate": 93,
+    "systolicBP": 143,
+    "diastolicBP": 97,
+    "temperature": 37.2,
+    "oxygenSaturation": 93,
+    "respiratoryRate": 21
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 14:00",
+    "heartRate": 90,
+    "systolicBP": 144,
+    "diastolicBP": 98,
+    "temperature": 37.6,
+    "oxygenSaturation": 94,
+    "respiratoryRate": 21
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 15:00",
+    "heartRate": 92,
+    "systolicBP": 156,
+    "diastolicBP": 91,
+    "temperature": 37.1,
+    "oxygenSaturation": 95,
+    "respiratoryRate": 19
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 16:00",
+    "heartRate": 88,
+    "systolicBP": 155,
+    "diastolicBP": 98,
+    "temperature": 37.2,
+    "oxygenSaturation": 94,
+    "respiratoryRate": 20
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 17:00",
+    "heartRate": 94,
+    "systolicBP": 146,
+    "diastolicBP": 99,
+    "temperature": 37.3,
+    "oxygenSaturation": 94,
+    "respiratoryRate": 21
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 18:00",
+    "heartRate": 92,
+    "systolicBP": 150,
+    "diastolicBP": 92,
+    "temperature": 37.3,
+    "oxygenSaturation": 95,
+    "respiratoryRate": 21
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 19:00",
+    "heartRate": 92,
+    "systolicBP": 152,
+    "diastolicBP": 98,
+    "temperature": 37.4,
+    "oxygenSaturation": 95,
+    "respiratoryRate": 22
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 20:00",
+    "heartRate": 88,
+    "systolicBP": 141,
+    "diastolicBP": 92,
+    "temperature": 37.3,
+    "oxygenSaturation": 95,
+    "respiratoryRate": 21
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 21:00",
+    "heartRate": 92,
+    "systolicBP": 147,
+    "diastolicBP": 91,
+    "temperature": 37.1,
+    "oxygenSaturation": 93,
+    "respiratoryRate": 22
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 22:00",
+    "heartRate": 93,
+    "systolicBP": 151,
+    "diastolicBP": 92,
+    "temperature": 37.4,
+    "oxygenSaturation": 93,
+    "respiratoryRate": 20
+  },
+  {
+    "patientId": "P002",
+    "timestamp": "2026-03-19 23:00",
+    "heartRate": 89,
+    "systolicBP": 154,
+    "diastolicBP": 98,
+    "temperature": 37.2,
+    "oxygenSaturation": 93,
+    "respiratoryRate": 18
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 00:00",
+    "heartRate": 75,
+    "systolicBP": 119,
+    "diastolicBP": 78,
+    "temperature": 36.6,
+    "oxygenSaturation": 99,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 01:00",
+    "heartRate": 71,
+    "systolicBP": 124,
+    "diastolicBP": 82,
+    "temperature": 36.8,
+    "oxygenSaturation": 97,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 02:00",
+    "heartRate": 75,
+    "systolicBP": 120,
+    "diastolicBP": 78,
+    "temperature": 36.8,
+    "oxygenSaturation": 99,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 03:00",
+    "heartRate": 70,
+    "systolicBP": 121,
+    "diastolicBP": 79,
+    "temperature": 36.8,
+    "oxygenSaturation": 99,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 04:00",
+    "heartRate": 73,
+    "systolicBP": 117,
+    "diastolicBP": 78,
+    "temperature": 36.6,
+    "oxygenSaturation": 97,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 05:00",
+    "heartRate": 70,
+    "systolicBP": 124,
+    "diastolicBP": 80,
+    "temperature": 36.7,
+    "oxygenSaturation": 98,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 06:00",
+    "heartRate": 72,
+    "systolicBP": 120,
+    "diastolicBP": 79,
+    "temperature": 36.8,
+    "oxygenSaturation": 99,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 07:00",
+    "heartRate": 74,
+    "systolicBP": 118,
+    "diastolicBP": 79,
+    "temperature": 36.6,
+    "oxygenSaturation": 97,
+    "respiratoryRate": 15
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 08:00",
+    "heartRate": 70,
+    "systolicBP": 125,
+    "diastolicBP": 83,
+    "temperature": 37,
+    "oxygenSaturation": 98,
+    "respiratoryRate": 15
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 09:00",
+    "heartRate": 71,
+    "systolicBP": 122,
+    "diastolicBP": 78,
+    "temperature": 37,
+    "oxygenSaturation": 99,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 10:00",
+    "heartRate": 71,
+    "systolicBP": 123,
+    "diastolicBP": 78,
+    "temperature": 36.7,
+    "oxygenSaturation": 97,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 11:00",
+    "heartRate": 72,
+    "systolicBP": 125,
+    "diastolicBP": 83,
+    "temperature": 36.7,
+    "oxygenSaturation": 98,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 12:00",
+    "heartRate": 74,
+    "systolicBP": 118,
+    "diastolicBP": 78,
+    "temperature": 36.9,
+    "oxygenSaturation": 97,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 13:00",
+    "heartRate": 73,
+    "systolicBP": 121,
+    "diastolicBP": 78,
+    "temperature": 36.7,
+    "oxygenSaturation": 98,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 14:00",
+    "heartRate": 70,
+    "systolicBP": 121,
+    "diastolicBP": 77,
+    "temperature": 36.7,
+    "oxygenSaturation": 98,
+    "respiratoryRate": 15
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 15:00",
+    "heartRate": 73,
+    "systolicBP": 124,
+    "diastolicBP": 82,
+    "temperature": 37,
+    "oxygenSaturation": 98,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 16:00",
+    "heartRate": 69,
+    "systolicBP": 121,
+    "diastolicBP": 82,
+    "temperature": 36.9,
+    "oxygenSaturation": 98,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 17:00",
+    "heartRate": 71,
+    "systolicBP": 119,
+    "diastolicBP": 81,
+    "temperature": 36.8,
+    "oxygenSaturation": 99,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 18:00",
+    "heartRate": 75,
+    "systolicBP": 117,
+    "diastolicBP": 82,
+    "temperature": 36.7,
+    "oxygenSaturation": 98,
+    "respiratoryRate": 15
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 19:00",
+    "heartRate": 72,
+    "systolicBP": 116,
+    "diastolicBP": 81,
+    "temperature": 36.8,
+    "oxygenSaturation": 98,
+    "respiratoryRate": 15
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 20:00",
+    "heartRate": 70,
+    "systolicBP": 117,
+    "diastolicBP": 82,
+    "temperature": 36.8,
+    "oxygenSaturation": 99,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 21:00",
+    "heartRate": 73,
+    "systolicBP": 116,
+    "diastolicBP": 83,
+    "temperature": 36.9,
+    "oxygenSaturation": 98,
+    "respiratoryRate": 15
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 22:00",
+    "heartRate": 69,
+    "systolicBP": 117,
+    "diastolicBP": 78,
+    "temperature": 36.8,
+    "oxygenSaturation": 98,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P003",
+    "timestamp": "2026-03-19 23:00",
+    "heartRate": 74,
+    "systolicBP": 120,
+    "diastolicBP": 83,
+    "temperature": 36.7,
+    "oxygenSaturation": 98,
+    "respiratoryRate": 15
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 00:00",
+    "heartRate": 130,
+    "systolicBP": 97,
+    "diastolicBP": 53,
+    "temperature": 38.9,
+    "oxygenSaturation": 81,
+    "respiratoryRate": 29
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 01:00",
+    "heartRate": 137,
+    "systolicBP": 87,
+    "diastolicBP": 61,
+    "temperature": 39.1,
+    "oxygenSaturation": 86,
+    "respiratoryRate": 37
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 02:00",
+    "heartRate": 132,
+    "systolicBP": 82,
+    "diastolicBP": 62,
+    "temperature": 38.7,
+    "oxygenSaturation": 85,
+    "respiratoryRate": 32
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 03:00",
+    "heartRate": 130,
+    "systolicBP": 98,
+    "diastolicBP": 64,
+    "temperature": 39.2,
+    "oxygenSaturation": 81,
+    "respiratoryRate": 30
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 04:00",
+    "heartRate": 126,
+    "systolicBP": 81,
+    "diastolicBP": 56,
+    "temperature": 38.7,
+    "oxygenSaturation": 84,
+    "respiratoryRate": 32
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 05:00",
+    "heartRate": 136,
+    "systolicBP": 84,
+    "diastolicBP": 56,
+    "temperature": 39.2,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 29
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 06:00",
+    "heartRate": 127,
+    "systolicBP": 87,
+    "diastolicBP": 66,
+    "temperature": 38.8,
+    "oxygenSaturation": 86,
+    "respiratoryRate": 35
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 07:00",
+    "heartRate": 137,
+    "systolicBP": 100,
+    "diastolicBP": 63,
+    "temperature": 38.2,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 28
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 08:00",
+    "heartRate": 126,
+    "systolicBP": 83,
+    "diastolicBP": 62,
+    "temperature": 38.7,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 32
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 09:00",
+    "heartRate": 136,
+    "systolicBP": 80,
+    "diastolicBP": 66,
+    "temperature": 38.8,
+    "oxygenSaturation": 84,
+    "respiratoryRate": 37
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 10:00",
+    "heartRate": 121,
+    "systolicBP": 81,
+    "diastolicBP": 67,
+    "temperature": 39.3,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 37
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 11:00",
+    "heartRate": 128,
+    "systolicBP": 86,
+    "diastolicBP": 63,
+    "temperature": 38.6,
+    "oxygenSaturation": 86,
+    "respiratoryRate": 28
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 12:00",
+    "heartRate": 126,
+    "systolicBP": 82,
+    "diastolicBP": 62,
+    "temperature": 38.3,
+    "oxygenSaturation": 81,
+    "respiratoryRate": 36
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 13:00",
+    "heartRate": 124,
+    "systolicBP": 83,
+    "diastolicBP": 59,
+    "temperature": 39.2,
+    "oxygenSaturation": 86,
+    "respiratoryRate": 29
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 14:00",
+    "heartRate": 122,
+    "systolicBP": 101,
+    "diastolicBP": 61,
+    "temperature": 38.7,
+    "oxygenSaturation": 84,
+    "respiratoryRate": 31
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 15:00",
+    "heartRate": 132,
+    "systolicBP": 81,
+    "diastolicBP": 54,
+    "temperature": 38.8,
+    "oxygenSaturation": 85,
+    "respiratoryRate": 34
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 16:00",
+    "heartRate": 134,
+    "systolicBP": 94,
+    "diastolicBP": 57,
+    "temperature": 38.4,
+    "oxygenSaturation": 84,
+    "respiratoryRate": 36
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 17:00",
+    "heartRate": 130,
+    "systolicBP": 91,
+    "diastolicBP": 60,
+    "temperature": 38.5,
+    "oxygenSaturation": 81,
+    "respiratoryRate": 37
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 18:00",
+    "heartRate": 137,
+    "systolicBP": 84,
+    "diastolicBP": 61,
+    "temperature": 38.3,
+    "oxygenSaturation": 85,
+    "respiratoryRate": 34
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 19:00",
+    "heartRate": 121,
+    "systolicBP": 89,
+    "diastolicBP": 53,
+    "temperature": 39.2,
+    "oxygenSaturation": 86,
+    "respiratoryRate": 32
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 20:00",
+    "heartRate": 123,
+    "systolicBP": 91,
+    "diastolicBP": 53,
+    "temperature": 39.4,
+    "oxygenSaturation": 82,
+    "respiratoryRate": 29
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 21:00",
+    "heartRate": 139,
+    "systolicBP": 90,
+    "diastolicBP": 55,
+    "temperature": 38.9,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 34
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 22:00",
+    "heartRate": 126,
+    "systolicBP": 85,
+    "diastolicBP": 65,
+    "temperature": 39.1,
+    "oxygenSaturation": 82,
+    "respiratoryRate": 32
+  },
+  {
+    "patientId": "P004",
+    "timestamp": "2026-03-19 23:00",
+    "heartRate": 131,
+    "systolicBP": 80,
+    "diastolicBP": 61,
+    "temperature": 38.3,
+    "oxygenSaturation": 85,
+    "respiratoryRate": 28
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 00:00",
+    "heartRate": 90,
+    "systolicBP": 136,
+    "diastolicBP": 91,
+    "temperature": 37,
+    "oxygenSaturation": 95,
+    "respiratoryRate": 18
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 01:00",
+    "heartRate": 86,
+    "systolicBP": 139,
+    "diastolicBP": 89,
+    "temperature": 37.2,
+    "oxygenSaturation": 95,
+    "respiratoryRate": 17
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 02:00",
+    "heartRate": 85,
+    "systolicBP": 147,
+    "diastolicBP": 92,
+    "temperature": 37.3,
+    "oxygenSaturation": 96,
+    "respiratoryRate": 18
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 03:00",
+    "heartRate": 89,
+    "systolicBP": 132,
+    "diastolicBP": 88,
+    "temperature": 37,
+    "oxygenSaturation": 95,
+    "respiratoryRate": 19
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 04:00",
+    "heartRate": 91,
+    "systolicBP": 137,
+    "diastolicBP": 91,
+    "temperature": 37.2,
+    "oxygenSaturation": 95,
+    "respiratoryRate": 17
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 05:00",
+    "heartRate": 86,
+    "systolicBP": 144,
+    "diastolicBP": 87,
+    "temperature": 37,
+    "oxygenSaturation": 96,
+    "respiratoryRate": 18
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 06:00",
+    "heartRate": 88,
+    "systolicBP": 147,
+    "diastolicBP": 94,
+    "temperature": 37.1,
+    "oxygenSaturation": 96,
+    "respiratoryRate": 19
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 07:00",
+    "heartRate": 85,
+    "systolicBP": 141,
+    "diastolicBP": 90,
+    "temperature": 37.2,
+    "oxygenSaturation": 96,
+    "respiratoryRate": 17
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 08:00",
+    "heartRate": 85,
+    "systolicBP": 135,
+    "diastolicBP": 93,
+    "temperature": 37,
+    "oxygenSaturation": 96,
+    "respiratoryRate": 18
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 09:00",
+    "heartRate": 91,
+    "systolicBP": 132,
+    "diastolicBP": 93,
+    "temperature": 36.9,
+    "oxygenSaturation": 97,
+    "respiratoryRate": 20
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 10:00",
+    "heartRate": 89,
+    "systolicBP": 146,
+    "diastolicBP": 89,
+    "temperature": 37.2,
+    "oxygenSaturation": 96,
+    "respiratoryRate": 16
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 11:00",
+    "heartRate": 86,
+    "systolicBP": 138,
+    "diastolicBP": 94,
+    "temperature": 37.2,
+    "oxygenSaturation": 97,
+    "respiratoryRate": 19
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 12:00",
+    "heartRate": 91,
+    "systolicBP": 138,
+    "diastolicBP": 90,
+    "temperature": 36.9,
+    "oxygenSaturation": 96,
+    "respiratoryRate": 19
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 13:00",
+    "heartRate": 86,
+    "systolicBP": 137,
+    "diastolicBP": 87,
+    "temperature": 37,
+    "oxygenSaturation": 96,
+    "respiratoryRate": 20
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 14:00",
+    "heartRate": 91,
+    "systolicBP": 140,
+    "diastolicBP": 92,
+    "temperature": 37.2,
+    "oxygenSaturation": 97,
+    "respiratoryRate": 18
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 15:00",
+    "heartRate": 91,
+    "systolicBP": 141,
+    "diastolicBP": 89,
+    "temperature": 36.9,
+    "oxygenSaturation": 97,
+    "respiratoryRate": 19
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 16:00",
+    "heartRate": 90,
+    "systolicBP": 143,
+    "diastolicBP": 91,
+    "temperature": 37.2,
+    "oxygenSaturation": 96,
+    "respiratoryRate": 19
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 17:00",
+    "heartRate": 90,
+    "systolicBP": 146,
+    "diastolicBP": 89,
+    "temperature": 37.2,
+    "oxygenSaturation": 96,
+    "respiratoryRate": 17
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 18:00",
+    "heartRate": 87,
+    "systolicBP": 145,
+    "diastolicBP": 88,
+    "temperature": 37,
+    "oxygenSaturation": 95,
+    "respiratoryRate": 18
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 19:00",
+    "heartRate": 84,
+    "systolicBP": 143,
+    "diastolicBP": 92,
+    "temperature": 36.9,
+    "oxygenSaturation": 97,
+    "respiratoryRate": 18
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 20:00",
+    "heartRate": 84,
+    "systolicBP": 140,
+    "diastolicBP": 86,
+    "temperature": 37,
+    "oxygenSaturation": 96,
+    "respiratoryRate": 18
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 21:00",
+    "heartRate": 90,
+    "systolicBP": 141,
+    "diastolicBP": 88,
+    "temperature": 37.2,
+    "oxygenSaturation": 97,
+    "respiratoryRate": 19
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 22:00",
+    "heartRate": 90,
+    "systolicBP": 142,
+    "diastolicBP": 90,
+    "temperature": 36.9,
+    "oxygenSaturation": 97,
+    "respiratoryRate": 19
+  },
+  {
+    "patientId": "P005",
+    "timestamp": "2026-03-19 23:00",
+    "heartRate": 87,
+    "systolicBP": 135,
+    "diastolicBP": 90,
+    "temperature": 37,
+    "oxygenSaturation": 96,
+    "respiratoryRate": 18
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 00:00",
+    "heartRate": 155,
+    "systolicBP": 216,
+    "diastolicBP": 122,
+    "temperature": 38.8,
+    "oxygenSaturation": 90,
+    "respiratoryRate": 29
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 01:00",
+    "heartRate": 147,
+    "systolicBP": 213,
+    "diastolicBP": 116,
+    "temperature": 38.5,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 30
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 02:00",
+    "heartRate": 140,
+    "systolicBP": 185,
+    "diastolicBP": 128,
+    "temperature": 38.7,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 26
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 03:00",
+    "heartRate": 148,
+    "systolicBP": 215,
+    "diastolicBP": 117,
+    "temperature": 38.2,
+    "oxygenSaturation": 88,
+    "respiratoryRate": 30
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 04:00",
+    "heartRate": 152,
+    "systolicBP": 193,
+    "diastolicBP": 111,
+    "temperature": 38.2,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 33
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 05:00",
+    "heartRate": 134,
+    "systolicBP": 182,
+    "diastolicBP": 112,
+    "temperature": 38.5,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 32
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 06:00",
+    "heartRate": 155,
+    "systolicBP": 195,
+    "diastolicBP": 112,
+    "temperature": 38.8,
+    "oxygenSaturation": 86,
+    "respiratoryRate": 31
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 07:00",
+    "heartRate": 153,
+    "systolicBP": 200,
+    "diastolicBP": 117,
+    "temperature": 38.4,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 32
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 08:00",
+    "heartRate": 147,
+    "systolicBP": 180,
+    "diastolicBP": 110,
+    "temperature": 38.3,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 30
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 09:00",
+    "heartRate": 135,
+    "systolicBP": 211,
+    "diastolicBP": 124,
+    "temperature": 38.2,
+    "oxygenSaturation": 85,
+    "respiratoryRate": 30
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 10:00",
+    "heartRate": 134,
+    "systolicBP": 185,
+    "diastolicBP": 117,
+    "temperature": 38.3,
+    "oxygenSaturation": 88,
+    "respiratoryRate": 31
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 11:00",
+    "heartRate": 146,
+    "systolicBP": 209,
+    "diastolicBP": 113,
+    "temperature": 38.3,
+    "oxygenSaturation": 88,
+    "respiratoryRate": 31
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 12:00",
+    "heartRate": 145,
+    "systolicBP": 218,
+    "diastolicBP": 122,
+    "temperature": 38.7,
+    "oxygenSaturation": 88,
+    "respiratoryRate": 27
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 13:00",
+    "heartRate": 150,
+    "systolicBP": 181,
+    "diastolicBP": 118,
+    "temperature": 38.9,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 29
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 14:00",
+    "heartRate": 149,
+    "systolicBP": 208,
+    "diastolicBP": 119,
+    "temperature": 38.3,
+    "oxygenSaturation": 86,
+    "respiratoryRate": 31
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 15:00",
+    "heartRate": 145,
+    "systolicBP": 191,
+    "diastolicBP": 113,
+    "temperature": 38.7,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 31
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 16:00",
+    "heartRate": 146,
+    "systolicBP": 209,
+    "diastolicBP": 125,
+    "temperature": 38.8,
+    "oxygenSaturation": 86,
+    "respiratoryRate": 27
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 17:00",
+    "heartRate": 149,
+    "systolicBP": 212,
+    "diastolicBP": 121,
+    "temperature": 38.5,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 28
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 18:00",
+    "heartRate": 135,
+    "systolicBP": 207,
+    "diastolicBP": 119,
+    "temperature": 38.9,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 30
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 19:00",
+    "heartRate": 153,
+    "systolicBP": 196,
+    "diastolicBP": 123,
+    "temperature": 38.3,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 32
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 20:00",
+    "heartRate": 153,
+    "systolicBP": 213,
+    "diastolicBP": 127,
+    "temperature": 38.6,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 28
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 21:00",
+    "heartRate": 153,
+    "systolicBP": 181,
+    "diastolicBP": 122,
+    "temperature": 38.1,
+    "oxygenSaturation": 88,
+    "respiratoryRate": 34
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 22:00",
+    "heartRate": 146,
+    "systolicBP": 191,
+    "diastolicBP": 112,
+    "temperature": 38.4,
+    "oxygenSaturation": 88,
+    "respiratoryRate": 31
+  },
+  {
+    "patientId": "P007",
+    "timestamp": "2026-03-19 23:00",
+    "heartRate": 139,
+    "systolicBP": 183,
+    "diastolicBP": 111,
+    "temperature": 38.4,
+    "oxygenSaturation": 86,
+    "respiratoryRate": 31
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 00:00",
+    "heartRate": 54,
+    "systolicBP": 82,
+    "diastolicBP": 56,
+    "temperature": 36.1,
+    "oxygenSaturation": 91,
+    "respiratoryRate": 29
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 01:00",
+    "heartRate": 50,
+    "systolicBP": 89,
+    "diastolicBP": 50,
+    "temperature": 36.4,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 28
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 02:00",
+    "heartRate": 48,
+    "systolicBP": 93,
+    "diastolicBP": 57,
+    "temperature": 36.1,
+    "oxygenSaturation": 90,
+    "respiratoryRate": 28
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 03:00",
+    "heartRate": 56,
+    "systolicBP": 93,
+    "diastolicBP": 52,
+    "temperature": 36.7,
+    "oxygenSaturation": 88,
+    "respiratoryRate": 26
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 04:00",
+    "heartRate": 49,
+    "systolicBP": 88,
+    "diastolicBP": 59,
+    "temperature": 36.1,
+    "oxygenSaturation": 90,
+    "respiratoryRate": 24
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 05:00",
+    "heartRate": 50,
+    "systolicBP": 87,
+    "diastolicBP": 51,
+    "temperature": 36.6,
+    "oxygenSaturation": 90,
+    "respiratoryRate": 24
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 06:00",
+    "heartRate": 53,
+    "systolicBP": 92,
+    "diastolicBP": 56,
+    "temperature": 36.6,
+    "oxygenSaturation": 91,
+    "respiratoryRate": 27
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 07:00",
+    "heartRate": 52,
+    "systolicBP": 90,
+    "diastolicBP": 52,
+    "temperature": 36.4,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 29
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 08:00",
+    "heartRate": 48,
+    "systolicBP": 89,
+    "diastolicBP": 54,
+    "temperature": 36.6,
+    "oxygenSaturation": 90,
+    "respiratoryRate": 26
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 09:00",
+    "heartRate": 47,
+    "systolicBP": 82,
+    "diastolicBP": 50,
+    "temperature": 36.2,
+    "oxygenSaturation": 92,
+    "respiratoryRate": 26
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 10:00",
+    "heartRate": 52,
+    "systolicBP": 88,
+    "diastolicBP": 55,
+    "temperature": 36.1,
+    "oxygenSaturation": 91,
+    "respiratoryRate": 29
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 11:00",
+    "heartRate": 50,
+    "systolicBP": 84,
+    "diastolicBP": 51,
+    "temperature": 36.4,
+    "oxygenSaturation": 90,
+    "respiratoryRate": 23
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 12:00",
+    "heartRate": 49,
+    "systolicBP": 78,
+    "diastolicBP": 57,
+    "temperature": 36.7,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 26
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 13:00",
+    "heartRate": 55,
+    "systolicBP": 80,
+    "diastolicBP": 56,
+    "temperature": 36.6,
+    "oxygenSaturation": 88,
+    "respiratoryRate": 23
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 14:00",
+    "heartRate": 46,
+    "systolicBP": 88,
+    "diastolicBP": 56,
+    "temperature": 36.6,
+    "oxygenSaturation": 88,
+    "respiratoryRate": 25
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 15:00",
+    "heartRate": 51,
+    "systolicBP": 87,
+    "diastolicBP": 55,
+    "temperature": 36.3,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 28
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 16:00",
+    "heartRate": 49,
+    "systolicBP": 94,
+    "diastolicBP": 58,
+    "temperature": 36.1,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 28
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 17:00",
+    "heartRate": 46,
+    "systolicBP": 81,
+    "diastolicBP": 54,
+    "temperature": 36.6,
+    "oxygenSaturation": 91,
+    "respiratoryRate": 25
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 18:00",
+    "heartRate": 50,
+    "systolicBP": 78,
+    "diastolicBP": 60,
+    "temperature": 36.3,
+    "oxygenSaturation": 90,
+    "respiratoryRate": 25
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 19:00",
+    "heartRate": 54,
+    "systolicBP": 81,
+    "diastolicBP": 56,
+    "temperature": 36.3,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 27
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 20:00",
+    "heartRate": 46,
+    "systolicBP": 89,
+    "diastolicBP": 51,
+    "temperature": 36.5,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 24
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 21:00",
+    "heartRate": 51,
+    "systolicBP": 94,
+    "diastolicBP": 55,
+    "temperature": 36.5,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 24
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 22:00",
+    "heartRate": 47,
+    "systolicBP": 90,
+    "diastolicBP": 51,
+    "temperature": 36.6,
+    "oxygenSaturation": 91,
+    "respiratoryRate": 25
+  },
+  {
+    "patientId": "P010",
+    "timestamp": "2026-03-19 23:00",
+    "heartRate": 47,
+    "systolicBP": 80,
+    "diastolicBP": 53,
+    "temperature": 36.2,
+    "oxygenSaturation": 87,
+    "respiratoryRate": 26
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 00:00",
+    "heartRate": 115,
+    "systolicBP": 99,
+    "diastolicBP": 58,
+    "temperature": 38.1,
+    "oxygenSaturation": 93,
+    "respiratoryRate": 33
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 01:00",
+    "heartRate": 121,
+    "systolicBP": 101,
+    "diastolicBP": 64,
+    "temperature": 37.7,
+    "oxygenSaturation": 90,
+    "respiratoryRate": 34
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 02:00",
+    "heartRate": 114,
+    "systolicBP": 95,
+    "diastolicBP": 63,
+    "temperature": 37.9,
+    "oxygenSaturation": 92,
+    "respiratoryRate": 34
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 03:00",
+    "heartRate": 124,
+    "systolicBP": 89,
+    "diastolicBP": 60,
+    "temperature": 37.8,
+    "oxygenSaturation": 92,
+    "respiratoryRate": 33
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 04:00",
+    "heartRate": 117,
+    "systolicBP": 90,
+    "diastolicBP": 58,
+    "temperature": 38.2,
+    "oxygenSaturation": 93,
+    "respiratoryRate": 35
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 05:00",
+    "heartRate": 118,
+    "systolicBP": 93,
+    "diastolicBP": 67,
+    "temperature": 37.8,
+    "oxygenSaturation": 92,
+    "respiratoryRate": 36
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 06:00",
+    "heartRate": 122,
+    "systolicBP": 102,
+    "diastolicBP": 57,
+    "temperature": 38.1,
+    "oxygenSaturation": 92,
+    "respiratoryRate": 32
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 07:00",
+    "heartRate": 122,
+    "systolicBP": 94,
+    "diastolicBP": 59,
+    "temperature": 38.1,
+    "oxygenSaturation": 92,
+    "respiratoryRate": 31
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 08:00",
+    "heartRate": 121,
+    "systolicBP": 94,
+    "diastolicBP": 61,
+    "temperature": 37.7,
+    "oxygenSaturation": 90,
+    "respiratoryRate": 34
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 09:00",
+    "heartRate": 125,
+    "systolicBP": 98,
+    "diastolicBP": 58,
+    "temperature": 37.7,
+    "oxygenSaturation": 92,
+    "respiratoryRate": 34
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 10:00",
+    "heartRate": 121,
+    "systolicBP": 94,
+    "diastolicBP": 67,
+    "temperature": 37.6,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 33
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 11:00",
+    "heartRate": 117,
+    "systolicBP": 92,
+    "diastolicBP": 57,
+    "temperature": 37.7,
+    "oxygenSaturation": 91,
+    "respiratoryRate": 32
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 12:00",
+    "heartRate": 112,
+    "systolicBP": 90,
+    "diastolicBP": 62,
+    "temperature": 38.2,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 33
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 13:00",
+    "heartRate": 111,
+    "systolicBP": 102,
+    "diastolicBP": 65,
+    "temperature": 38.2,
+    "oxygenSaturation": 90,
+    "respiratoryRate": 32
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 14:00",
+    "heartRate": 117,
+    "systolicBP": 93,
+    "diastolicBP": 63,
+    "temperature": 38.2,
+    "oxygenSaturation": 91,
+    "respiratoryRate": 36
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 15:00",
+    "heartRate": 122,
+    "systolicBP": 93,
+    "diastolicBP": 59,
+    "temperature": 38.1,
+    "oxygenSaturation": 92,
+    "respiratoryRate": 34
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 16:00",
+    "heartRate": 111,
+    "systolicBP": 93,
+    "diastolicBP": 64,
+    "temperature": 38,
+    "oxygenSaturation": 92,
+    "respiratoryRate": 33
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 17:00",
+    "heartRate": 123,
+    "systolicBP": 96,
+    "diastolicBP": 61,
+    "temperature": 38.1,
+    "oxygenSaturation": 92,
+    "respiratoryRate": 31
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 18:00",
+    "heartRate": 114,
+    "systolicBP": 102,
+    "diastolicBP": 67,
+    "temperature": 37.6,
+    "oxygenSaturation": 91,
+    "respiratoryRate": 34
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 19:00",
+    "heartRate": 123,
+    "systolicBP": 99,
+    "diastolicBP": 65,
+    "temperature": 38,
+    "oxygenSaturation": 89,
+    "respiratoryRate": 35
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 20:00",
+    "heartRate": 120,
+    "systolicBP": 96,
+    "diastolicBP": 63,
+    "temperature": 37.5,
+    "oxygenSaturation": 91,
+    "respiratoryRate": 36
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 21:00",
+    "heartRate": 121,
+    "systolicBP": 87,
+    "diastolicBP": 59,
+    "temperature": 37.9,
+    "oxygenSaturation": 93,
+    "respiratoryRate": 34
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 22:00",
+    "heartRate": 124,
+    "systolicBP": 90,
+    "diastolicBP": 63,
+    "temperature": 37.8,
+    "oxygenSaturation": 91,
+    "respiratoryRate": 34
+  },
+  {
+    "patientId": "P015",
+    "timestamp": "2026-03-19 23:00",
+    "heartRate": 112,
+    "systolicBP": 99,
+    "diastolicBP": 61,
+    "temperature": 38.1,
+    "oxygenSaturation": 93,
+    "respiratoryRate": 35
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "N001",
+    "title": "Critical Alert",
+    "message": "Grace Okonkwo: BP 200/120 - hypertensive crisis",
+    "type": "alert",
+    "timestamp": "2026-03-19 09:15",
+    "read": false,
+    "targetRole": "all"
+  },
+  {
+    "id": "N002",
+    "title": "Critical Alert",
+    "message": "Anna Kowalski: DKA admission - pH 7.1",
+    "type": "alert",
+    "timestamp": "2026-03-19 09:25",
+    "read": false,
+    "targetRole": "all"
+  },
+  {
+    "id": "N003",
+    "title": "Resource Warning",
+    "message": "ICU beds at 67% capacity (4 remaining)",
+    "type": "warning",
+    "timestamp": "2026-03-19 09:00",
+    "read": false,
+    "targetRole": "manager"
+  },
+  {
+    "id": "N004",
+    "title": "Shift Change",
+    "message": "Night shift begins at 19:00 - 6 staff transitioning",
+    "type": "info",
+    "timestamp": "2026-03-19 08:00",
+    "read": true,
+    "targetRole": "manager"
+  },
+  {
+    "id": "N005",
+    "title": "Rule Triggered",
+    "message": "R006 Tachypnea Critical matched: Anna Kowalski (RR: 34)",
+    "type": "warning",
+    "timestamp": "2026-03-19 09:25",
+    "read": false,
+    "targetRole": "admin"
+  },
+  {
+    "id": "N006",
+    "title": "Report Ready",
+    "message": "Weekly Triage Summary is ready for download",
+    "type": "success",
+    "timestamp": "2026-03-18 16:45",
+    "read": true,
+    "targetRole": "manager"
+  },
+  {
+    "id": "N007",
+    "title": "System Update",
+    "message": "Classification engine v2.4 deployed successfully",
+    "type": "info",
+    "timestamp": "2026-03-18 02:00",
+    "read": true,
+    "targetRole": "admin"
+  },
+  {
+    "id": "N008",
+    "title": "Patient Discharge",
+    "message": "Thomas Berg (P008) cleared for discharge",
+    "type": "success",
+    "timestamp": "2026-03-19 10:00",
+    "read": false,
+    "targetRole": "clinician"
+  },
+  {
+    "id": "N009",
+    "title": "Task Reminder",
+    "message": "3 overdue interventions for ICU patients",
+    "type": "warning",
+    "timestamp": "2026-03-19 08:30",
+    "read": false,
+    "targetRole": "clinician"
+  },
+  {
+    "id": "N010",
+    "title": "New Admission",
+    "message": "Sophie Laurent admitted to Obstetrics - post C-section",
+    "type": "info",
+    "timestamp": "2026-03-19 07:45",
+    "read": true,
+    "targetRole": "clinician"
+  }
+]

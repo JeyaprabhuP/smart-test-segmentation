@@ -1,0 +1,50 @@
+[
+  {
+    "ward": "ICU",
+    "critical": 5,
+    "moderate": 0,
+    "stable": 0
+  },
+  {
+    "ward": "Cardiology",
+    "critical": 0,
+    "moderate": 2,
+    "stable": 0
+  },
+  {
+    "ward": "Neurology",
+    "critical": 0,
+    "moderate": 2,
+    "stable": 0
+  },
+  {
+    "ward": "General",
+    "critical": 0,
+    "moderate": 0,
+    "stable": 3
+  },
+  {
+    "ward": "Orthopedics",
+    "critical": 0,
+    "moderate": 0,
+    "stable": 1
+  },
+  {
+    "ward": "Obstetrics",
+    "critical": 0,
+    "moderate": 0,
+    "stable": 1
+  },
+  {
+    "ward": "Geriatrics",
+    "critical": 0,
+    "moderate": 1,
+    "stable": 0
+  },
+  {
+    "ward": "Emergency",
+    "critical": 1,
+    "moderate": 1,
+    "stable": 2
+  }
+]

@@ -1,1 +1,102 @@
-[{"id": 1, "name": "High Blood Pressure Alert", "condition": "bloodPressure > 160/100", "action": "Alert doctor", "severity": "High", "enabled": true}, {"id": 2, "name": "Low Oxygen Saturation", "condition": "oxygenSaturation < 90", "action": "Notify staff", "severity": "Critical", "enabled": true}]
+[
+  {
+    "id": "R001",
+    "name": "Tachycardia Critical",
+    "metric": "Heart Rate",
+    "operator": ">",
+    "threshold": 120,
+    "severity": "critical",
+    "active": true,
+    "lastModified": "2026-03-15"
+  },
+  {
+    "id": "R002",
+    "name": "Hypoxia Critical",
+    "metric": "O2 Saturation",
+    "operator": "<",
+    "threshold": 90,
+    "severity": "critical",
+    "active": true,
+    "lastModified": "2026-03-15"
+  },
+  {
+    "id": "R003",
+    "name": "Fever Moderate",
+    "metric": "Temperature",
+    "operator": ">",
+    "threshold": 38.5,
+    "severity": "moderate",
+    "active": true,
+    "lastModified": "2026-03-14"
+  },
+  {
+    "id": "R004",
+    "name": "Hypertension Moderate",
+    "metric": "Systolic BP",
+    "operator": ">",
+    "threshold": 160,
+    "severity": "moderate",
+    "active": true,
+    "lastModified": "2026-03-14"
+  },
+  {
+    "id": "R005",
+    "name": "Bradycardia Warning",
+    "metric": "Heart Rate",
+    "operator": "<",
+    "threshold": 50,
+    "severity": "moderate",
+    "active": false,
+    "lastModified": "2026-03-10"
+  },
+  {
+    "id": "R006",
+    "name": "Tachypnea Critical",
+    "metric": "Respiratory Rate",
+    "operator": ">",
+    "threshold": 30,
+    "severity": "critical",
+    "active": true,
+    "lastModified": "2026-03-16"
+  },
+  {
+    "id": "R007",
+    "name": "Hypotension Critical",
+    "metric": "Systolic BP",
+    "operator": "<",
+    "threshold": 90,
+    "severity": "critical",
+    "active": true,
+    "lastModified": "2026-03-17"
+  },
+  {
+    "id": "R008",
+    "name": "Hypothermia Moderate",
+    "metric": "Temperature",
+    "operator": "<",
+    "threshold": 35.5,
+    "severity": "moderate",
+    "active": true,
+    "lastModified": "2026-03-12"
+  },
+  {
+    "id": "R009",
+    "name": "Severe Hypoxia Critical",
+    "metric": "O2 Saturation",
+    "operator": "<",
+    "threshold": 85,
+    "severity": "critical",
+    "active": true,
+    "lastModified": "2026-03-18"
+  },
+  {
+    "id": "R010",
+    "name": "Mild Tachycardia",
+    "metric": "Heart Rate",
+    "operator": ">",
+    "threshold": 100,
+    "severity": "moderate",
+    "active": true,
+    "lastModified": "2026-03-13"
+  }
+]
