@@ -6,7 +6,7 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(
-    title="Smart Test Segmentation API",
+    title="Backend Service - Segmentation API",
     description="API serving healthcare dataset endpoints",
     version="1.0.0",
 )
@@ -38,7 +38,7 @@ def find_by_id(data: list, item_id: str) -> dict:
 
 
 @app.get("/")
-def root():
+def health():
     return {
         "service": "Smart Test Segmentation API",
         "version": "1.0.0",
