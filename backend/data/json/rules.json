@@ -1,0 +1,1 @@
+[{"id": 1, "name": "High Blood Pressure Alert", "condition": "bloodPressure > 160/100", "action": "Alert doctor", "severity": "High", "enabled": true}, {"id": 2, "name": "Low Oxygen Saturation", "condition": "oxygenSaturation < 90", "action": "Notify staff", "severity": "Critical", "enabled": true}]
