@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "AL1",
+    "patient": "Grace Okonkwo",
+    "message": "BP critically elevated: 200/120",
+    "severity": "critical",
+    "timestamp": "2026-03-19 09:15",
+    "read": false
+  },
+  {
+    "id": "AL2",
+    "patient": "Robert Chen",
+    "message": "O2 saturation dropped to 85%",
+    "severity": "critical",
+    "timestamp": "2026-03-19 09:02",
+    "read": false
+  },
+  {
+    "id": "AL3",
+    "patient": "Maria Santos",
+    "message": "Heart rate elevated: 112 bpm",
+    "severity": "critical",
+    "timestamp": "2026-03-19 08:45",
+    "read": true
+  },
+  {
+    "id": "AL4",
+    "patient": "James O'Brien",
+    "message": "Troponin levels rising",
+    "severity": "moderate",
+    "timestamp": "2026-03-19 08:30",
+    "read": false
+  },
+  {
+    "id": "AL5",
+    "patient": "Elena Vasquez",
+    "message": "Scheduled MRI in 30 min",
+    "severity": "stable",
+    "timestamp": "2026-03-19 08:00",
+    "read": true
+  },
+  {
+    "id": "AL6",
+    "patient": "Liam Murphy",
+    "message": "Post-PCI hypotension: 85/55",
+    "severity": "critical",
+    "timestamp": "2026-03-19 09:30",
+    "read": false
+  },
+  {
+    "id": "AL7",
+    "patient": "Anna Kowalski",
+    "message": "DKA - pH 7.1, glucose 520",
+    "severity": "critical",
+    "timestamp": "2026-03-19 09:25",
+    "read": false
+  },
+  {
+    "id": "AL8",
+    "patient": "Fatima Al-Rashid",
+    "message": "Heart rate 108 bpm - A-fib RVR",
+    "severity": "moderate",
+    "timestamp": "2026-03-19 09:10",
+    "read": false
+  },
+  {
+    "id": "AL9",
+    "patient": "Hiroshi Tanaka",
+    "message": "Persistent fever 38.2°C day 3",
+    "severity": "moderate",
+    "timestamp": "2026-03-19 08:50",
+    "read": true
+  },
+  {
+    "id": "AL10",
+    "patient": "Carlos Mendez",
+    "message": "EEG results ready for review",
+    "severity": "stable",
+    "timestamp": "2026-03-19 08:15",
+    "read": true
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "hour": "00:00",
+    "critical": 2,
+    "moderate": 3,
+    "stable": 5
+  },
+  {
+    "hour": "02:00",
+    "critical": 2,
+    "moderate": 3,
+    "stable": 5
+  },
+  {
+    "hour": "04:00",
+    "critical": 2,
+    "moderate": 4,
+    "stable": 5
+  },
+  {
+    "hour": "06:00",
+    "critical": 3,
+    "moderate": 3,
+    "stable": 5
+  },
+  {
+    "hour": "08:00",
+    "critical": 3,
+    "moderate": 3,
+    "stable": 4
+  },
+  {
+    "hour": "10:00",
+    "critical": 4,
+    "moderate": 4,
+    "stable": 5
+  },
+  {
+    "hour": "12:00",
+    "critical": 5,
+    "moderate": 4,
+    "stable": 5
+  },
+  {
+    "hour": "14:00",
+    "critical": 5,
+    "moderate": 3,
+    "stable": 6
+  },
+  {
+    "hour": "16:00",
+    "critical": 4,
+    "moderate": 3,
+    "stable": 4
+  },
+  {
+    "hour": "18:00",
+    "critical": 4,
+    "moderate": 3,
+    "stable": 4
+  },
+  {
+    "hour": "20:00",
+    "critical": 3,
+    "moderate": 2,
+    "stable": 3
+  },
+  {
+    "hour": "22:00",
+    "critical": 3,
+    "moderate": 2,
+    "stable": 4
+  }
+]
