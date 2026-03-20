@@ -9,4 +9,6 @@ export const users: UserAccount[] = [
   { id: "U006", email: "clinician2@vitaltriage.com", password: "doctor123", name: "Dr. Patel", role: "clinician", department: "Cardiology", avatar: "DP", lastLogin: "2026-03-19 07:15" },
   { id: "U007", email: "clinician3@vitaltriage.com", password: "doctor123", name: "Dr. Kim", role: "clinician", department: "General Medicine", avatar: "DK", lastLogin: "2026-03-19 08:30" },
   { id: "U008", email: "clinician4@vitaltriage.com", password: "doctor123", name: "Dr. Williams", role: "clinician", department: "Obstetrics", avatar: "DW", lastLogin: "2026-03-18 22:00" },
+  { id: "U009", email: "triage@vitaltriage.com", password: "nurse123", name: "Nurse Amy Collins", role: "triage_nurse", department: "Emergency", avatar: "AC", lastLogin: "2026-03-19 06:00" },
+  { id: "U010", email: "triage2@vitaltriage.com", password: "nurse123", name: "Nurse David Lee", role: "triage_nurse", department: "Emergency", avatar: "DL", lastLogin: "2026-03-19 07:00" },
 ];

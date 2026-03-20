@@ -1,5 +1,5 @@
 // Re-export everything from individual data modules for backward compatibility
-export type { Severity, UserRole, Patient, ClassificationRule, AuditLog, Resource, Alert, StaffMember, Department, Notification, SystemMetric, ShiftSchedule, HourlyVital, LabReport, LabResult, UserAccount } from "./types";
+export type { Severity, UserRole, PatientStatus, Patient, ClassificationRule, AuditLog, Resource, Alert, StaffMember, Department, Notification, SystemMetric, ShiftSchedule, HourlyVital, LabReport, LabResult, UserAccount } from "./types";
 export { patients } from "./patients";
 export { classificationRules } from "./rules";
 export { auditLogs } from "./auditLogs";
